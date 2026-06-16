@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenWord Alert</string>
+    <string name="accessibility_service_description">Monitors the screen layout parameters to trigger immediate custom word alerts.</string>
+</resources>
